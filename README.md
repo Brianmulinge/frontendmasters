@@ -1,7 +1,1 @@
-# frontendmasters
-# frontendmasters
-# frontendmasters
-# frontendmasters
-# frontendmasters
-# frontendmasters
-# frontendmasters
+# This are all the projects ive done from the frontendmasters website
